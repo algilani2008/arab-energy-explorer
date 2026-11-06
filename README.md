@@ -1,5 +1,7 @@
 # Arab Energy Explorer | مستكشف الطاقة العربي
 
+**🌐 الموقع:** https://algilani2008.github.io/arab-energy-explorer/ | **📖 الشرح بالعربي:** [شرح_المشروع.md](شرح_المشروع.md)
+
 An interactive, Arabic-first website for exploring electricity and CO₂ data across the 22 Arab League countries, 2000–2024. It is a static site: no backend, no tracking, no cookies, no external scripts. All the data sits in one small file, so the page also works offline.
 
 ![The site in Arabic](results/screenshots/desktop_arabic.png)
